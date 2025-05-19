@@ -71,7 +71,8 @@ titles_visibility = "yes"
 
 
 # 音乐可视化配置:
-visualizer_output_name =                 "FIFO"
+visualizer_output_name =                 "Visualizer feed"
+#禁用可视化功能临时测试
 visualizer_in_stereo =                     "no"
 #visualizer_fifo_path =                     "/tmp/mpd.fifo"
 #visualizer_sync_interval =                 "10"
