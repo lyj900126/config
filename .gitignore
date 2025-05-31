@@ -4,6 +4,7 @@ mpd/database
 mpd/pid
 mpd/sticker.sql
 mpd/state
+mpd/playlists/
 ncmpcpp/.lyrics/
 rofi/.git
 
